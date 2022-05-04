@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## Workshop description
-
 The application of process mining is an excellent example of the digital twin of organizations. The digital twin should actively assist the processes in making confident decisions about the next steps and foreseeing the effects of actions. Strategic, high-level, operational, and short-term decisions are examples of these actions. Forward-looking techniques enable organizations to create their own digital twins. Process mining provides data-driven support for businesses to make their processes transparent. Most process mining techniques are backward-looking. They generate descriptive process models based on historical data and identify performance and compliance issues. Forward-looking process mining focuses on turning the results of backward-looking techniques into actions. Process mining is capable of providing insights into the future of processes given the provided insight, i.e., the currently discovered insights.
+
 The purpose of this workshop is to present and discuss the potential forward-looking process mining techniques where they play a role in an organization's digital twin. The scope of the workshop includes approaches such as data-driven process model generation, simulation, and prediction, as well as a human role in these approaches.  The workshop aims to target all the researchers who design and implement process mining techniques for future analysis of processes. The new approaches should be able to support, enrich, and improve current forward-looking techniques.
 
 ## Topics
