@@ -39,7 +39,8 @@ The topics of interest for this workshop, but not limited to, are provided below
 *	Mahsa Pourbafrani, RWTH Aachen University
 *	Jana-Rebecca Rehse, University of Mannheim
 *	 Andrea Morrella, Sapienza Università di Roma
-Please direct questions about the RPM workshop to *Mahsa Pourbafrani*, mahsa.bafrani@pads.rwth-aachen.de.
+
+If you have any queries concerning the workshop, please contact: mahsa.bafrani@pads.rwth-aachen.de.
 
 ## Program committee
 
