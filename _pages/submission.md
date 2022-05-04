@@ -24,7 +24,8 @@ Authors should follow the Springer formatting for Lecture Notes on Computer Scie
 ## Submission
 Papers and abstracts should be submitted through the Easy Chair web site of the ICPM conference in PDF format by selecting the "Responsible Process Mining" track:
 
-[https://easychair.org/conferences/?conf=icpm2022](https://easychair.org/conferences/?conf=icpm2022)
+[https://easychair.org/conferences/?conf=flpm2022](https://easychair.org/conferences/?conf=flpm2022)
+
 
 By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. It is expected that at least one author will register for each accepted paper. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
