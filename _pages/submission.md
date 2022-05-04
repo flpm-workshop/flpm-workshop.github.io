@@ -22,7 +22,7 @@ Authors should follow the Springer formatting for Lecture Notes on Computer Scie
 [http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 ## Submission
-Papers and abstracts should be submitted through the Easy Chair web site of the ICPM conference in PDF format by selecting the "Responsible Process Mining" track:
+Papers and abstracts should be submitted through the Easy Chair web site of the workshop:
 
 [https://easychair.org/conferences/?conf=flpm2022](https://easychair.org/conferences/?conf=flpm2022)
 
