@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "3rd Workshop on Responsible Process Mining (RPM)"
+title                    : "1st Workshop on Forward-looking Process Mining (FLPM)"
 title_separator          : "-"
-name                     : &name "3rd Workshop on Responsible Process Mining (R"
-description              : &description "Workshop organized in conjunction with the 4th International Conference on Process Mining: ICPM 2022 in Bozen-Bolzano, Italy"
-url                      : https://rpm-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/2022" # the subpath of your site, e.g. "/blog"
-repository               : "rpm-workshop/2022"
+name                     : &name "1st Workshop on Forward-looking Process Mining (FLPM)"
+description              : &description "Workshop organized in conjunction with the 26th International EDOC Conference (EDOC 2022) in Bozen-Bolzano, Italy"
+url                      : https://flpm-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+repository               : "flpm-workshop/"
 teaser                   : "RPM-Logo.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "RPM"
+  name             : "FLPM"
   avatar           : "RPM-Logo.png"
-  bio              : "Workshop organized in conjunction with the 4th International Conference on Process Mining: ICPM 2022"
+  bio              : "Workshop organized in conjunction with the 26th International EDOC Conference (EDOC 2022)"
   location         : "Bozen, Italy"
   employer         : 
   googlescholar    : 
