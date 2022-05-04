@@ -14,7 +14,7 @@ description              : &description "Workshop organized in conjunction with 
 url                      : https://flpm-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "flpm-workshop/"
-teaser                   : "flpm-Logo.png"
+teaser                   : "flpm-Logo.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "FLPM"
-  avatar           : "flpm-Logo.png"
+  avatar           : "flpm-Logo.jpg"
   bio              : "Workshop organized in conjunction with the 26th International EDOC Conference (EDOC 2022)"
   location         : "Bozen, Italy"
   employer         : 
