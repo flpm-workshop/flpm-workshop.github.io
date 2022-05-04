@@ -8,12 +8,10 @@ redirect_from:
 
 ## Venue
 
-Have a look at the ICPM 2022 website for information on Bozen-Bolzano:
-
-https://icpmconference.org/2022/
+http://edocconference.org/2022/
 
 ## Registration
 
 To be opened:
 
-https://icpmconference.org/2022/registration/
+
