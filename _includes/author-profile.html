@@ -1,0 +1,33 @@
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<div>
+  
+  <div class="author__content" style="text-align: center;">
+    <a href="https://rpm-workshop.github.io/2022/"><img src="/2022/images/RPM-Logo.png" style="width: 200px"></a>    
+  </div>
+  <br/>
+
+  <div class="author__content" style="text-align: center;"> 
+    <p class="author__bio">Workshop organized in conjunction with the 4th International Conference on Process Mining on 24th October 2022</p>
+    <a href="https://icpmconference.org/2022/"><img src="/2022/images/ICPM_Logo-1024x314-e1558427587186.png" style="width: 150px"></a>    
+  </div>
+  <br/>
+  
+  <div class="author__content" style="text-align: center;"> 
+    <p class="author__bio"><b>Abstract submission</b><br/> 10 August 2022</p>   
+    <p class="author__bio"><b>Paper submission</b><br/> 17 August 2022</p>    
+  </div>
+  <br/>  
+  
+
+  <div class="author__content" style="text-align: center;">
+    <p>An activity of the <b>IEEE Task Force on Process Mining</b></p>
+    <a href="https://www.tf-pm.org/"><img src="/2022/images/tfpm_logo.jpg" style="width: 150px"></a>
+  </div>    
+  
+</div>
+
