@@ -1,1 +1,0 @@
-The main objective of the RPM workshop is to give a forum for RPM, where the concerns regarding responsibility related to Process Mining are discussed by researchers from both social and technical perspectives.
