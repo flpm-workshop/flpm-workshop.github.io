@@ -6,12 +6,10 @@ author_profile: true
 
 ## Important dates
 
-* Submission of Workshop-Paper Abstracts: **10 August 2022**
-* Submission of Workshop Papers: **17 August 2022**
-* Workshop-Paper Notification: 14 September 2022
-* Pre-workshop Camera-Ready Submissions: 5 October 2022
-* Workshop Day: 24 October 2022
-* Post-workshop Camera-Ready Submissions: 7 November 2022
+* Submission of Workshop Papers: **6 July 2022**
+* Workshop-Paper Notification: 10 August 2022
+* Camera-Ready Submissions: 15 August 2022
+* Workshop Day: 3-7 October 2022
 
 All deadlines correspond to anywhere on earth ('AoE' or 'UTC-12')
 
