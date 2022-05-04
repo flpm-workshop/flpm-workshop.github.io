@@ -9,10 +9,7 @@ main:
   - title: "Program"
     url: /program/    
 
-  - title: "Logistics"
-    url: /logistics/      
+  - title: "EDOC 2022"
+    url: http://edocconference.org/2022/call-for-papers/ 
     
-  - title: "ICPM 2022"
-    url: https://icpmconference.org/2022/
-
 
