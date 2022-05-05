@@ -16,7 +16,7 @@ All deadlines correspond to anywhere on earth ('AoE' or 'UTC-12')
 ## Submission guidelines
 Authors should submit original, unpublished research papers. All papers must not simultaneously be submitted to another journal or conference. There is only one type of submissions:
 
-* Full Paper submissions have a maximum of 12 pages.
+* Full Paper submissions have a maximum of 12 pages (including references).
 
 Authors should follow the Springer formatting for Lecture Notes on Computer Science as indicated here:
 [http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
