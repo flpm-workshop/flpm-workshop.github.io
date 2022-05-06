@@ -30,5 +30,4 @@ Papers and abstracts should be submitted through the Easy Chair web site of the 
 By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. It is expected that at least one author will register for each accepted paper. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
 ## Proceedings
-
 The workshop proceedings will be published with Springer on the Lecture Notes in Business Information Processing series. Please see [https://www.springer.com/gp/computer-science/lncs/editor-guidelines-for-springer-proceedings](https://www.springer.com/gp/computer-science/lncs/editor-guidelines-for-springer-proceedings)
