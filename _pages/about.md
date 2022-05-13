@@ -44,4 +44,15 @@ If you have any queries concerning the workshop, please contact mahsa.bafrani@pa
 
 ## Program committee
 
-TO BE ANNOUNCED
+* Lior Limonad, IBM Company
+* Fabiana Fournier, IBM Company
+* Niek Tax, Meta Company
+*	Luise Pufahl, Technische Universität Berlin
+*	Vadim Denisov, ServiceNow Company
+*	Mohammadreza Fanisani, Microsoft Company
+*	Majid Rafiei, RWTH Aachen University
+*	Stephen Pauwels, Universiteit Antwerpen
+*	Sebastiaan van Zelst, RWTH Aachen University/Fronhofer Institute of Technology
+*	Sander Leemans, RWTH Aachen University
+*	Wil van der Aalst, RWTH Aachen University
+
