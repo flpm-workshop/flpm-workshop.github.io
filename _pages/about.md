@@ -54,5 +54,6 @@ If you have any queries concerning the workshop, please contact mahsa.bafrani@pa
 *	Stephen Pauwels, Universiteit Antwerpen
 *	Sebastiaan van Zelst, RWTH Aachen University/Fronhofer Institute of Technology
 *	Sander Leemans, RWTH Aachen University
+*	Jan Mendling, Humboldt-Universität zu Berlin
 *	Wil van der Aalst, RWTH Aachen University
 
