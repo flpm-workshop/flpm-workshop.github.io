@@ -49,7 +49,6 @@ If you have any queries concerning the workshop, please contact mahsa.bafrani@pa
 * Niek Tax, Meta Company
 *	Luise Pufahl, Technische Universität Berlin
 *	Vadim Denisov, ServiceNow Company
-*	Mohammadreza Fanisani, Microsoft Company
 *	Majid Rafiei, RWTH Aachen University
 *	Stephen Pauwels, Universiteit Antwerpen
 *	Sebastiaan van Zelst, RWTH Aachen University/Fronhofer Institute of Technology
