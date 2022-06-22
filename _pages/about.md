@@ -48,6 +48,7 @@ If you have any queries concerning the workshop, please contact mahsa.bafrani@pa
 * Fabiana Fournier, IBM Company
 * Niek Tax, Meta Company
 *	Luise Pufahl, Technische Universität Berlin
+*	Mohammadreza Fani Sani, Microsoft Company
 *	Vadim Denisov, ServiceNow Company
 *	Majid Rafiei, RWTH Aachen University
 *	Stephen Pauwels, Universiteit Antwerpen
